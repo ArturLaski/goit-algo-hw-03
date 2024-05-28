@@ -26,3 +26,17 @@ If the destination directory is omitted, it defaults to dist:
 
 This script will copy all files from the source directory to the destination directory, organizing them into subdirectories based on their file extensions.
 
+
+
+TASK 2.
+
+Usage
+To use this script, save it to a file (e.g., task-2.py) and run it from the command line with the desired recursion level as an argument:
+
+```python task-2.py 3```
+
+This command will draw a Koch snowflake fractal with a recursion level of 3. You can adjust the level to see different complexities of the fractal.
+
+
+
+
